@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Google <span>Apr. 2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <p>I joined Google because I want to have more hands-on experience with Websites development and the Internet industry. I am response for developing video related search features in Google Search. For example, to help users combat covid19, I implemented to the <a href="https://drive.google.com/file/d/1XvAUMVwrCDc6kKFbcr29bVANKC-vZyHV/view?usp=sharing">Covid19 Data Void feature</a> and <a href="https://drive.google.com/file/d/1tDGox72R8gWESPsNvQxfvtm-zZoCydb8/view?usp=sharing">the Covid19 related search feature</a> in the mobile video mode of Google Search. Besides Covid19 related features, I also work on the <a href="https://drive.google.com/file/d/1UftfdsC9jmKsL5tUbgnth93zqN-J0oBE/view?usp=sharing">time anchor feature</a>, which helps users directly find the video segments they are most interested in. Besides video features, I also implement some of the safety protection for video features, for example the <a href="https://en.wikipedia.org/wiki/Directive_on_Copyright_in_the_Digital_Single_Market">EUCD policy</a> protection for all video features in the Google search page.</p>
                       </div>
                     </div>
                   </article>
@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Samsung Semiconductor Inc. <span>Feb. 2017-Apri. 2019</span></h2>
-                        <p>I joined the Samsung Semiconductor Inc. to develop</p>
+                        <p>After grauduation, I joined the Samsung Semiconductor Inc. to develop <a href="https://en.wikipedia.org/wiki/Optical_proximity_correction">Optical Proximity Correction</a> Software using C+++ and CUDA. I applied machine learning technology and high-performance computing skills to recognize various pollygon patterns in millions of images and optimize all the polygon segments in batches. The purpose of this project is to reduce Samsung's dependence on the license of other OPC software companies, like <a href="https://www.asml.com/en">ASML</a>, <a href="https://www.synopsys.com/">Synopsys</a> etc. This project saves Samsung millions of dollars in license fee each year.</p>
                       </div>
                     </div>
                   </article>

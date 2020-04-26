@@ -14,7 +14,7 @@ export default class About extends Component {
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>I am a fulltime Software Engineer working in Google focusing on the Video Search features of www.google.com. Like most of engineers in the Silicon Valley, I love exploring new technologies and often amazed by the technoligical progress made so far in the recent years.</p>
-                    <p>As a Molecular Engineering Ph.D. who later transferred to the semiconductor and the Internet industry, I have hands-on experience with lots of technologies ranging from Molecular Simulation, Monte Carlo Simulation, High-Performance Computer Simulation, Large-Scale Image Processing(for example, OPC image processing), Google-Scale Search Ranking and Frontend Web Development.</p>
+                    <p>As a physics/chemical engineering Ph.D. who later transferred to the semiconductor and the Internet industry, I have hands-on experience with lots of technologies ranging from Molecular Simulation, Monte Carlo Simulation, High-Performance Computer Simulation, Large-Scale Image Processing(for example, OPC image processing), Google-Scale Search Ranking and Frontend Web Development.</p>
                     </div>
                 </div>
                 </div>
