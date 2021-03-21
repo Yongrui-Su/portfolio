@@ -15,7 +15,7 @@
     "start": "npm start",
     "build": "npm run build",
     "predeploy": "npm start",
-    "deploy": "npm run deploy",
+    "deploy": "npm run deploy"
   },
   "eslintConfig": {
     "extends": "react-app"
